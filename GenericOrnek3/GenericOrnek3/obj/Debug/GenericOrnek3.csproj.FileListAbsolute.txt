@@ -1,0 +1,10 @@
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\GenericOrnek3\GenericOrnek3\bin\Debug\GenericOrnek3.exe.config
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\GenericOrnek3\GenericOrnek3\bin\Debug\GenericOrnek3.exe
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\GenericOrnek3\GenericOrnek3\bin\Debug\GenericOrnek3.pdb
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\GenericOrnek3\GenericOrnek3\obj\Debug\GenericOrnek3.exe
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\GenericOrnek3\GenericOrnek3\obj\Debug\GenericOrnek3.pdb
+C:\Users\bura\Desktop\bilge adam örnekler\03.07.2017\GenericOrnek3\GenericOrnek3\bin\Debug\GenericOrnek3.exe.config
+C:\Users\bura\Desktop\bilge adam örnekler\03.07.2017\GenericOrnek3\GenericOrnek3\bin\Debug\GenericOrnek3.exe
+C:\Users\bura\Desktop\bilge adam örnekler\03.07.2017\GenericOrnek3\GenericOrnek3\bin\Debug\GenericOrnek3.pdb
+C:\Users\bura\Desktop\bilge adam örnekler\03.07.2017\GenericOrnek3\GenericOrnek3\obj\Debug\GenericOrnek3.exe
+C:\Users\bura\Desktop\bilge adam örnekler\03.07.2017\GenericOrnek3\GenericOrnek3\obj\Debug\GenericOrnek3.pdb

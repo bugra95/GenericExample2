@@ -1,0 +1,11 @@
+Generic Kısıtlamaları:
+
+where T : struct ==> T'nin value type tipinde olması gerektiğini belirtmek için kullanılır.
+
+where T : class ==> T'nin reference type tipinde olması gerektiğini belirtmek için kullanılır.
+
+where T: new() ==> T'nin default constructor'ının olması gerektiğini belirtmek için kullanılır.
+
+where T: BaseClassAdi ==> T'nin adı verilen base class'tan türemiş olması gerektiğini belirtmek için kullanılır.
+
+where T: InterfaceAdi ==> T'nin adı verilen interface'i ya da interface'leri miras olarak almış olması gerektiğini belirtmek için kullanılır.

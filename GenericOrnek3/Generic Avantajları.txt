@@ -1,0 +1,21 @@
+Generic Sınıfların Avantajları
+
+	1. Oluşturduğumuz bir Generic sınıf .NET kütüphanesinde bulunan bütün tipler ve kendi oluşturduğumuz bütün tipler için kullanılabilir.
+	
+	2. Cast yapmak zorunda kalmıyoruz.
+	
+	3. Değer tipleri için boxing ve unboxing işlemi yapılmaz ve bu sayede performans artışı oldukça yükselir.
+	
+Boxing: stack'ten heap'e yapılan kopyalama
+Unboxing: heap'ten stack'e yapılan kopyalama
+
+	int a = 5;
+	object o = a;  ==> boxing
+	int b = (int)o;	==> unboxing
+	
+	
+	
+	
+	
+	
+	
